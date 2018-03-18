@@ -1,0 +1,14 @@
+.UserOutput{
+    border: solid salmon 1px;
+    text-align: center;
+    padding: 2px;
+}
+
+.UserOutput p {
+    margin: 10px
+}
+
+.UserOutput span {
+    font-weight: bold;
+    color: magenta;
+}
