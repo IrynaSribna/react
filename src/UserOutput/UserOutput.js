@@ -6,7 +6,7 @@ const userOutput = (props) => {
         <div className="UserOutput">   
             <p>User name: <span>{props.name}</span></p>
             <p>Hello <span>{props.name}!</span></p>
-    </div>
+        </div>
     )
 }
 
